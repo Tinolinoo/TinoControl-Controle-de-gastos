@@ -29,13 +29,21 @@ Além do registro das despesas, o Tino Control oferece uma visão geral dos seus
 Seja para quem deseja economizar, organizar as contas do mês ou simplesmente entender melhor seus hábitos de consumo, o Tino Control é a solução ideal para acompanhar e gerenciar seus gastos de forma eficiente e segura.
 
 tela de inicio:
+
+
 ![image](https://github.com/user-attachments/assets/b8cb81a2-050a-4473-ad34-1ee065554fc5)
 
 botão de adicionar gastos:
+
+
 ![image](https://github.com/user-attachments/assets/85945fd5-40e8-495b-9536-914bf5953818)
 
 area de gastos recentes/mes:
+
+
 ![image](https://github.com/user-attachments/assets/7320cd3f-28bc-45bc-92a7-39ec1ddbe31a)
 
 categorias:
+
+
 ![image](https://github.com/user-attachments/assets/4f23ff83-e811-4441-a2b6-099a69e5f4c6)
